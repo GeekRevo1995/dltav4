@@ -202,6 +202,7 @@ li.tab-button:hover {
     height: 100%;
     --box-shadow: inset 0px 0px 5px 1px rgba(0, 0, 0, 0.75);
     display: none;
+    overflow: hidden;
 }
 
 .tab-container.active {
@@ -214,7 +215,6 @@ li.tab-button:hover {
     display: flex;
     flex-direction: column;
     align-content: stretch;
-    overflow: hidden;
 }
 
 .content-bottom {
