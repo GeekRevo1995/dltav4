@@ -214,6 +214,7 @@ li.tab-button:hover {
     display: flex;
     flex-direction: column;
     align-content: stretch;
+    overflow: hidden;
 }
 
 .content-bottom {
