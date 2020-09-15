@@ -572,6 +572,7 @@ select:hover {
 /* Team players*/
 
 #team-leaderboard-hud {
+    width: 245px !important;
     cursor: default;
     -webkit-touch-callout: none;
     -webkit-user-select: none;
