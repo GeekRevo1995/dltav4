@@ -1068,7 +1068,7 @@ const Settings = {
         if (settings.normalLb) {
             $('#leaderboard-hud h4').html(dictonary.leaderboard);
         } else {
-            $('#leaderboard-hud h4').html('Fatosh boss');
+            $('#leaderboard-hud h4').html('DELTA BY ADAM');
         }
     },
     setFpsAtTop() {
